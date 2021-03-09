@@ -69,7 +69,7 @@ sections:
 
           support on the path of transitioning into the workforce
         actions:
-          - label: Learn more
+          - label: Learn More
             url: /faq
             style: primary
             has_icon: true
