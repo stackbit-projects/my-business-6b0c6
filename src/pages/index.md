@@ -44,6 +44,7 @@ sections:
       - title: Education and Experience
         content: |
           assess you skills
+          
           provide learning resources
           encourage practice projects
           gain experience
