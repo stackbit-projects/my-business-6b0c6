@@ -37,7 +37,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/mentoring (1).jpg
+        image: images/Mentoring-news-feature.jpg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
@@ -48,7 +48,7 @@ sections:
           provide learning resources
 
           encourage practice projects
-          
+
           gain experience
         actions:
           - label: Learn More
