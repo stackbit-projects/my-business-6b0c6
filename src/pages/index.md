@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Activate your career in tech.
-    subtitle: This is a mission to empower women.
+    subtitle: >-
+      This is a mission to empower women changing or returning to tech career.
+      We offer education, mentoring, career path setting, opportunities.
     actions:
       - label: Contact Me
         url: /contact
