@@ -43,13 +43,7 @@ sections:
 
           encourage practice projects and gain experience
 
-        actions:
-          - label: Learn More
-            url: /about
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
