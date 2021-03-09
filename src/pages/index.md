@@ -27,9 +27,6 @@ sections:
     subtitle: What I do
     features:
       - title: Mentoring
-        subtitle: >-
-          Direction, coaching, support, goal, training, motivation, advice,
-          success.
         content: >
           I will help in setting the direction to success through advice,
           motivation, support, coaching and provide resources to train you to
