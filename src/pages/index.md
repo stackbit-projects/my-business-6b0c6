@@ -63,7 +63,9 @@ sections:
       - title: Support and Opportunities
         content: |
           resume review
+
           mock interview
+
           job opportunities
         actions:
           - label: See Past Work
