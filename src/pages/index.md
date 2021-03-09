@@ -43,11 +43,10 @@ sections:
         media_width: sixty
       - title: Education and Experience
         content: |
-          We will
-          - assess you skills
-          - provide learning resources
-          - encourage practice projects
-          - gain experience 
+          assess you skills
+          provide learning resources
+          encourage practice projects
+          gain experience
         actions:
           - label: Learn More
             url: /about
