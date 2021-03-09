@@ -23,7 +23,7 @@ sections:
     background_image_opacity: 120
     background_image_position: right center
   - type: features_section
-    title: My services
+    title: Our services
     subtitle: What I do
     features:
       - title: Mentoring
