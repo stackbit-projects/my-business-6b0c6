@@ -43,7 +43,7 @@ sections:
         media_width: sixty
       - title: Education and Experience
         content: |
-          assess you skills
+          assess your skills
 
           provide learning resources
 
