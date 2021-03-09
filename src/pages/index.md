@@ -81,7 +81,7 @@ sections:
     align: center
     background_color: none
     background_image: images/vGHC_Zoom-blue.png
-    background_image_opacity: 50
+    background_image_opacity: 10
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
