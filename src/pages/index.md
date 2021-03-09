@@ -19,7 +19,7 @@ sections:
     background_color: none
     background_image: images/vGHC_Zoom-blue.png
     background_image_repeat: repeat
-    background_image_size: contain
+    background_image_size: cover
     background_image_opacity: 100
     background_image_position: right center
   - type: grid_section
