@@ -70,7 +70,7 @@ sections:
           support on the path of transitioning into the workforce
         actions:
           - label: Learn More
-            url: /faq
+            url: /about
             style: primary
             has_icon: true
             icon: arrow-right
