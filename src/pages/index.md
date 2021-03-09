@@ -47,7 +47,7 @@ sections:
           - assess you skills
           - provide learning resources
           - encourage practice projects
-          \- gain experience 
+          - gain experience 
         actions:
           - label: Learn More
             url: /about
