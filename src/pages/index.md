@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Activate your career in tech.
-    subtitle: .
+    subtitle: This is a mission to empower women.
     actions:
       - label: Contact Me
         url: /contact
