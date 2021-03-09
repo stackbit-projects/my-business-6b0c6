@@ -21,6 +21,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 10
+    background_image_position: left center
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
