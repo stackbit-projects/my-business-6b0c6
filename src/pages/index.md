@@ -42,14 +42,13 @@ sections:
         media_position: right
         media_width: sixty
       - title: Education and Experience
-        content: |
-          assess your skills
+        content: |+
+          skill assessment
 
-          provide learning resources
+          tailored learning and development within your area of expertise
 
-          encourage practice projects
+          encourage practice projects and gain experience
 
-          gain experience
         actions:
           - label: Learn More
             url: /about
