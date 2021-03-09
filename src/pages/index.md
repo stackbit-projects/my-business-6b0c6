@@ -26,7 +26,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Mentor
+      - title: Mentoring
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
