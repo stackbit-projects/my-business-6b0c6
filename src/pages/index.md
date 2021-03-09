@@ -45,7 +45,7 @@ sections:
         content: |
           We will
           - assess you skills
-          \- provide learning resources
+          - provide learning resources
           \- encourage practice projects
           \- gain experience 
         actions:
