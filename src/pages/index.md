@@ -61,10 +61,10 @@ sections:
         media_position: right
         media_width: sixty
       - title: Support and Opportunities
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: |
+          resume review
+          mock interview
+          job opportunities
         actions:
           - label: See Past Work
             url: /faq
