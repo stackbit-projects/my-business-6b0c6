@@ -30,13 +30,7 @@ sections:
           We will help set the direction to success through advice, motivation,
           support, coaching and provide resources to train you to achieve your
           goals.
-        actions:
-          - label: Learn more
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/mentoring (1).jpg
         image_alt: Feature 1 illustration
         media_position: right
