@@ -20,7 +20,7 @@ sections:
     background_image: images/vGHC_Zoom-blue.png
     background_image_repeat: repeat
     background_image_size: auto
-    background_image_opacity: 100
+    background_image_opacity: 90
     background_image_position: right center
   - type: grid_section
     title: Trusted by Companies Big and Small
