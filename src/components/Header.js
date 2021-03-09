@@ -16,7 +16,7 @@ export default class Header extends React.Component {
             				{_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null) ? (
             				<Link className="navbar__logo m-0" to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_alt', null)} /></Link>
             				) : 
-            				<Link className="navbar__title h6 m-0" to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link>
+            				<Link className="navbar__title h1 m-0" to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link>
             				}
             			</div>
             			{(_.get(this.props, 'pageContext.site.siteMetadata.header.has_primary_nav', null) || _.get(this.props, 'pageContext.site.siteMetadata.header.has_secondary_nav', null)) && (<React.Fragment>
