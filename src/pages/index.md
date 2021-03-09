@@ -7,7 +7,7 @@ sections:
       This is a mission to empower women changing or returning to tech career.
       We offer education, mentoring, career path setting, opportunities.
     actions:
-      - label: Contact Me
+      - label: Contact Us
         url: /contact
         style: primary
     image_alt: A smiling woman
