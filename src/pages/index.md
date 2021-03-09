@@ -66,6 +66,8 @@ sections:
           mock interview
 
           job opportunities
+
+          support on the path of transitioning into the workforce
         actions:
           - label: See Past Work
             url: /faq
