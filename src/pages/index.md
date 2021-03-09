@@ -24,7 +24,6 @@ sections:
     background_image_position: right center
   - type: features_section
     title: Our services
-    subtitle: What I do
     features:
       - title: Mentoring
         content: >
