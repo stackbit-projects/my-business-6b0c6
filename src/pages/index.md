@@ -31,7 +31,7 @@ sections:
           support, coaching and provide resources to train you to achieve your
           goals.
         actions:
-          - label: See Writing Samples
+          - label: Learn more
             url: /faq
             style: primary
             has_icon: true
