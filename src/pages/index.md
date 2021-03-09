@@ -30,10 +30,10 @@ sections:
         subtitle: >-
           Direction, coaching, support, goal, training, motivation, advice,
           success.
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          I will help in setting the direction to success through advice,
+          motivation, support, coaching and provide resources to train you to
+          achieve your goals.
         actions:
           - label: See Writing Samples
             url: /faq
