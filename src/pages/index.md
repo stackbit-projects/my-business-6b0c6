@@ -27,9 +27,9 @@ sections:
     features:
       - title: Mentoring
         content: >
-          I will help in setting the direction to success through advice,
-          motivation, support, coaching and provide resources to train you to
-          achieve your goals.
+          We will help set the direction to success through advice, motivation,
+          support, coaching and provide resources to train you to achieve your
+          goals.
         actions:
           - label: See Writing Samples
             url: /faq
