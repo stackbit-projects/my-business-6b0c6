@@ -28,18 +28,13 @@ seo:
       relativeUrl: true
 template: page
 ---
-
 ![A woman using a laptop](/images/about.jpg)
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+# **Mission:** Empower women to relaunch their career in tech. Kickstarting career and reentering the workforce after a break or changing career to tech can be a huge challenge for women. Together we can make this a lot easier.
 
-## Credentials
+## About us
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
-
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
-
-
+#### Aktibeto is formed to equip women with knowledge and experience needed to enter the tech industry. We provide guidance and support needed for the women. Last year, we helped 30% of our members join the workforce.
 
 ## Writing for Action
 
