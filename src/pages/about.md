@@ -30,14 +30,14 @@ template: page
 ---
 ![A woman using a laptop](/images/about.jpg)
 
-#### **Our Mission** 
+## **Our Mission**
 
 ##### Empower women to relaunch their career in tech. Kickstarting career and reentering the workforce after a break or changing career to tech can be a huge challenge for women. Together we can make this a lot easier.
 
-## About us
+### About us
 
 ##### Aktibeto is formed to equip women with knowledge and experience needed to enter the tech industry. We provide guidance and support needed for the women. Last year, we helped 30% of our members join the workforce.
 
-### What we do
+#### What we do
 
 ##### We offer one on one mentoring, career path guidance, learning resources, resume review, support for project experience, job opportunity reference. 
