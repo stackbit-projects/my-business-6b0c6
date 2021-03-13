@@ -14,13 +14,13 @@ sections:
 
 
       Be a member of Aktibeto for just $25.00/year. After a short onboarding
-      call I will be able to provide you with pricing, followed by a detailed
-      proposal once we discuss the details needed to achieve your career goal. 
+      call we will be able to provide you with pricing, followed by a detailed
+      proposal once we discuss the details needed to achieve your career goal.
 
 
       By becoming a member, you will be surrounded with a supportive community,
       you will be prepared to learn, engage, experience and build your network
-      of like minded people. 
+      of like minded people.
     content_align: left
     form_position: left
     form_width: fifty
