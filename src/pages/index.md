@@ -33,7 +33,7 @@ sections:
         actions: []
         image: images/mentor.jpg
         image_alt: Feature 1 illustration
-        media_position: top
+        media_position: right
         media_width: sixty
       - title: Education and Experience
         content: |+
