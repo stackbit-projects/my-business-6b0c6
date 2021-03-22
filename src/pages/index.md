@@ -29,15 +29,11 @@ sections:
         content: |
           set the direction to success through
 
-          *   advice, motivation, support
+          support
 
-          <!---->
+          coaching
 
-          *   coaching
-
-          <!---->
-
-          *   resources
+          resources
         actions: []
         image_alt: Feature 1 illustration
         media_position: right
