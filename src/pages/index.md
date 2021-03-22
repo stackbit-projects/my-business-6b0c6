@@ -27,15 +27,17 @@ sections:
     features:
       - title: Mentoring
         content: |
-          We will help set the direction to success through 
+          set the direction to success through
 
-          advice, motivation, support
+          *   advice, motivation, support
 
-          coaching  
+          <!---->
 
-          provide resources 
+          *   coaching
 
-          to train you to achieve your goals.
+          <!---->
+
+          *   resources
         actions: []
         image_alt: Feature 1 illustration
         media_position: right
