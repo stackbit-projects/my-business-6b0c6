@@ -26,10 +26,16 @@ sections:
     title: Our services
     features:
       - title: Mentoring
-        content: >
-          We will help set the direction to success through advice, motivation,
-          support, coaching and provide resources to train you to achieve your
-          goals.
+        content: |
+          We will help set the direction to success through 
+
+          advice, motivation, support
+
+          coaching  
+
+          provide resources 
+
+          to train you to achieve your goals.
         actions: []
         image_alt: Feature 1 illustration
         media_position: right
