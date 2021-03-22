@@ -31,7 +31,6 @@ sections:
           support, coaching and provide resources to train you to achieve your
           goals.
         actions: []
-        image: images/mentor.jpg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
