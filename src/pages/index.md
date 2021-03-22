@@ -26,14 +26,13 @@ sections:
     title: Our services
     features:
       - title: Mentoring
-        content: |
-          set the direction to success through
+        content: |+
+          goal setting
 
-          support
+          development-driven guidance
 
-          coaching
+          resources for your career progression
 
-          resources
         actions: []
         image_alt: Feature 1 illustration
         media_position: right
