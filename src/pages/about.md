@@ -40,4 +40,4 @@ template: page
 
 #### What we do
 
-##### We offer one on one mentoring, career path guidance, learning resources, resume review, support for project experience, job opportunity reference. If you want to know more or interested in joining as a member, head over to the contact page or email: contact@aktibeto.com
+##### We offer one on one mentoring, career path guidance, learning resources, resume review, support for project experience, job opportunity reference. If you want to know more or interested in joining as a member, head over to the contact page or email: rafna@aktibeto.com
