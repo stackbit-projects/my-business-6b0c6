@@ -14,8 +14,7 @@ sections:
 
 
       By becoming a member, you will be surrounded with a supportive community,
-      you will be prepared to learn, engage, experience and build your network
-      of like minded people.
+      you will be prepared to learn, engage, experience and expand your network.
 
 
       Contact us to have a discovery call where we discuss the details needed to
