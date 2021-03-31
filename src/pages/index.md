@@ -49,13 +49,13 @@ sections:
         media_width: sixty
       - title: Support and Opportunities
         content: |
-          resume review
+          Resume review
 
-          mock interview
+          Mock interview
 
-          job opportunities
+          Job opportunities
 
-          support on the path of transitioning into the workforce
+          Support on the path of transitioning into the workforce
         actions:
           - label: Learn More
             url: /about
