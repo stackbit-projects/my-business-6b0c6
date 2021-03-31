@@ -116,7 +116,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: 'Aktibeto '
+  title: 'Aktibeto'
   description: >-
     Activate your career in tech. A mission to help women return to work or
     change career to tech. We provide career guidance, project experience and
