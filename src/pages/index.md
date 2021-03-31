@@ -129,7 +129,7 @@ seo:
       value: Aktibeto
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: Return to work
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
