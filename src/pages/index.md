@@ -37,13 +37,12 @@ sections:
         media_position: right
         media_width: sixty
       - title: Education and Experience
-        content: |+
-          skill assessment
+        content: |
+          Skill assessment
 
-          tailored learning and development within your area of expertise
+          Tailored learning and development within your area of expertise
 
-          encourage practice projects and gain experience
-
+          Encourage practice projects and gain experience
         actions: []
         image_alt: Feature 2 illustration
         media_position: right
